@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Facundo/Documents/JDBC%20-%20Java%20con%20Base%20de%20Datos/ejercicio_01/src/tienda/entidades/Producto.java</file>
+            <file>file:/C:/Users/Facundo/Documents/JDBC%20-%20Java%20con%20Base%20de%20Datos/ejercicio_01/src/tienda/servicios/FabricanteService.java</file>
+            <file>file:/C:/Users/Facundo/Documents/JDBC%20-%20Java%20con%20Base%20de%20Datos/ejercicio_01/src/tienda/Ejercicio_01.java</file>
+            <file>file:/C:/Users/Facundo/Documents/JDBC%20-%20Java%20con%20Base%20de%20Datos/ejercicio_01/src/tienda/persistencia/ProductoDAO.java</file>
+            <file>file:/C:/Users/Facundo/Documents/JDBC%20-%20Java%20con%20Base%20de%20Datos/ejercicio_01/src/tienda/persistencia/FabricanteDAO.java</file>
+            <file>file:/C:/Users/Facundo/Documents/JDBC%20-%20Java%20con%20Base%20de%20Datos/ejercicio_01/src/tienda/servicios/ProductoService.java</file>
+            <file>file:/C:/Users/Facundo/Documents/JDBC%20-%20Java%20con%20Base%20de%20Datos/ejercicio_01/src/tienda/entidades/Fabricante.java</file>
+            <file>file:/C:/Users/Facundo/Documents/JDBC%20-%20Java%20con%20Base%20de%20Datos/ejercicio_01/src/tienda/persistencia/DAO.java</file>
+        </group>
+    </open-files>
+</project-private>
